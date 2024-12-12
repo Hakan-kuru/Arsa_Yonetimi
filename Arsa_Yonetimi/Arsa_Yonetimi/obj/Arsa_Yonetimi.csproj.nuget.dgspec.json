@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj": {}
+    "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj": {
+    "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj",
+        "projectUniqueName": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj",
         "projectName": "Arsa_Yonetimi",
-        "projectPath": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj",
+        "projectPath": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj",
         "packagesPath": "C:\\Users\\Hakan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\obj\\",
+        "outputPath": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

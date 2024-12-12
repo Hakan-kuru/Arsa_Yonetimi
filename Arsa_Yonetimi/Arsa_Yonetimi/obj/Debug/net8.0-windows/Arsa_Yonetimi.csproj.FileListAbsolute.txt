@@ -1,0 +1,17 @@
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\bin\Debug\net8.0-windows\Arsa_Yonetimi.exe
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\bin\Debug\net8.0-windows\Arsa_Yonetimi.deps.json
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\bin\Debug\net8.0-windows\Arsa_Yonetimi.runtimeconfig.json
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\bin\Debug\net8.0-windows\Arsa_Yonetimi.dll
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\bin\Debug\net8.0-windows\Arsa_Yonetimi.pdb
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\obj\Debug\net8.0-windows\Arsa_Yonetimi.Form1.resources
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\obj\Debug\net8.0-windows\Arsa_Yonetimi.csproj.GenerateResource.cache
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\obj\Debug\net8.0-windows\Arsa_Yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\obj\Debug\net8.0-windows\Arsa_Yonetimi.AssemblyInfoInputs.cache
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\obj\Debug\net8.0-windows\Arsa_Yonetimi.AssemblyInfo.cs
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\obj\Debug\net8.0-windows\Arsa_Yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\obj\Debug\net8.0-windows\Arsa_Yonetimi.sourcelink.json
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\obj\Debug\net8.0-windows\Arsa_Yonetimi.dll
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\obj\Debug\net8.0-windows\refint\Arsa_Yonetimi.dll
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\obj\Debug\net8.0-windows\Arsa_Yonetimi.pdb
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\obj\Debug\net8.0-windows\Arsa_Yonetimi.genruntimeconfig.cache
+C:\Users\Hakan\source\repos\Arsa_Yonetimi\Arsa_Yonetimi\Arsa_Yonetimi\obj\Debug\net8.0-windows\ref\Arsa_Yonetimi.dll
