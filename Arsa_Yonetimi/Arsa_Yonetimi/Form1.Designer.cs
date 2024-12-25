@@ -25,5 +25,6 @@
         private Button Add;
         private DataGridView dvgFields;
         private DataGridView dvg;
+        private Button btnAdd;
     }
 }

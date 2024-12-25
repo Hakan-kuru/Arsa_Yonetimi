@@ -13,7 +13,7 @@ namespace Models
 
     public class Sale
     {
-        public int Id { get; set; } // Satışın benzersiz kimliği
+        public int SaleId { get; set; } // Satışın benzersiz kimliği
         public int FieldId { get; set; } // Hangi arsa ile ilişkili olduğu
         public double Amount { get; set; } // Satılan ürün miktarı (kilo)
         public double PricePerKg { get; set; } // Kilo başı fiyat
@@ -22,10 +22,10 @@ namespace Models
 
     public class Field
     {
-        public int Id { get; set; } // Her arsa için benzersiz bir kimlik
-        public string Name { get; set; } // Arsa adı
-        public double Area { get; set; } // Dönüm bilgisi
-        public string Crop { get; set; } // Ekilen ürün
+        public int FieldId { get; set; } // Her arsa için benzersiz bir kimlik
+        public string FieldName { get; set; } // Arsa adı
+        public double FieldArea { get; set; } // Dönüm bilgisi
+        public string FieldCrop { get; set; } // Ekilen ürün
         public DateTime PlantDate { get; set; } // Ekiliş tarihi
     }
 

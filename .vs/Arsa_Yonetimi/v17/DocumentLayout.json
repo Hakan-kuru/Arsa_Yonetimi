@@ -7,20 +7,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Arsa_Yonetimi\\Arsa_Yonetimi\\FieldsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Arsa_Yonetimi\\Arsa_Yonetimi\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Arsa_Yonetimi\\Arsa_Yonetimi\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Models\\Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Arsa_Yonetimi\\Arsa_Yonetimi\\Models\\Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Models\\FieldsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Arsa_Yonetimi\\Arsa_Yonetimi\\Models\\FieldsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,68 +36,35 @@
               "RelativeDocumentMoniker": "Arsa_Yonetimi\\Arsa_Yonetimi\\FieldsForm.cs",
               "ToolTip": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\FieldsForm.cs",
               "RelativeToolTip": "Arsa_Yonetimi\\Arsa_Yonetimi\\FieldsForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:19:56.532Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FieldsForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Models\\FieldsForm.Designer.cs",
-              "RelativeDocumentMoniker": "Arsa_Yonetimi\\Arsa_Yonetimi\\Models\\FieldsForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Models\\FieldsForm.Designer.cs",
-              "RelativeToolTip": "Arsa_Yonetimi\\Arsa_Yonetimi\\Models\\FieldsForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:21:59.414Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Models.cs",
-              "DocumentMoniker": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Models\\Models.cs",
-              "RelativeDocumentMoniker": "Arsa_Yonetimi\\Arsa_Yonetimi\\Models\\Models.cs",
-              "ToolTip": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Models\\Models.cs",
-              "RelativeToolTip": "Arsa_Yonetimi\\Arsa_Yonetimi\\Models\\Models.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:21:57.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Arsa_Yonetimi\\Arsa_Yonetimi\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Form1.Designer.cs",
-              "RelativeToolTip": "Arsa_Yonetimi\\Arsa_Yonetimi\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T14:34:47.28Z",
+              "WhenOpened": "2024-12-25T13:31:01.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Form1.cs",
-              "RelativeDocumentMoniker": "Arsa_Yonetimi\\Arsa_Yonetimi\\Form1.cs",
-              "ToolTip": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Form1.cs",
-              "RelativeToolTip": "Arsa_Yonetimi\\Arsa_Yonetimi\\Form1.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAYwE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T12:26:25.384Z",
+              "Title": "Arsa_Yonetimi.csproj",
+              "DocumentMoniker": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj",
+              "RelativeDocumentMoniker": "Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj",
+              "ToolTip": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj",
+              "RelativeToolTip": "Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T16:48:35.01Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arsa_Yonetimi.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj.user",
+              "RelativeDocumentMoniker": "Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj.user",
+              "ToolTip": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj.user",
+              "RelativeToolTip": "Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-12-23T16:48:33.035Z"
             },
             {
               "$type": "Bookmark",
