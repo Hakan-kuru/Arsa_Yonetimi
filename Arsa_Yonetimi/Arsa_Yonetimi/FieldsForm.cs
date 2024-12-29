@@ -56,55 +56,14 @@ namespace Arsa_Yonetimi
 
         private void InitializeComponent()
         {
-            btnUpdate = new Button();
-            btnDelete = new Button();
-            btnClose = new Button();
             SuspendLayout();
-            // 
-            // btnUpdate
-            // 
-            btnUpdate.Location = new Point(641, 40);
-            btnUpdate.Name = "btnUpdate";
-            btnUpdate.Size = new Size(84, 68);
-            btnUpdate.TabIndex = 0;
-            btnUpdate.Text = "Update";
-            btnUpdate.UseVisualStyleBackColor = true;
-            btnUpdate.Click += btnUpdate_Click_1;
-            // 
-            // btnDelete
-            // 
-            btnDelete.Location = new Point(522, 40);
-            btnDelete.Name = "btnDelete";
-            btnDelete.Size = new Size(84, 68);
-            btnDelete.TabIndex = 1;
-            btnDelete.Text = "Delete";
-            btnDelete.UseVisualStyleBackColor = true;
-            btnDelete.Click += button1_Click;
-            // 
-            // btnClose
-            // 
-            btnClose.Location = new Point(419, 40);
-            btnClose.Name = "btnClose";
-            btnClose.Size = new Size(84, 68);
-            btnClose.TabIndex = 2;
-            btnClose.Text = "Close";
-            btnClose.UseVisualStyleBackColor = true;
-            btnClose.Click += btnClose_Click;
             // 
             // FieldsForm
             // 
             ClientSize = new Size(800, 496);
-            Controls.Add(btnClose);
-            Controls.Add(btnDelete);
-            Controls.Add(btnUpdate);
             Name = "FieldsForm";
             Text = "FieldsForm";
             ResumeLayout(false);
         }
-
-        private Button btnDelete;
-        private Button btnClose;
-        private Button btnUpdate;
-
     }
 }

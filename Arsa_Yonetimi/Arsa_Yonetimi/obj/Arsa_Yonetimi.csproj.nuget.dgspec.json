@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj": {}
+    "C:\\Users\\Hakan\\Source\\Repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj": {
+    "C:\\Users\\Hakan\\Source\\Repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj",
+        "projectUniqueName": "C:\\Users\\Hakan\\Source\\Repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj",
         "projectName": "Arsa_Yonetimi",
-        "projectPath": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj",
+        "projectPath": "C:\\Users\\Hakan\\Source\\Repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi.csproj",
         "packagesPath": "C:\\Users\\Hakan\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Hakan\\Source\\Repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\Arsa_Yonetimi\\obj\\",
         "projectStyle": "PackageReference",
@@ -18,6 +18,7 @@
         ],
         "configFilePaths": [
           "C:\\Users\\Hakan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,6 +26,7 @@
           "net8.0-windows"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },

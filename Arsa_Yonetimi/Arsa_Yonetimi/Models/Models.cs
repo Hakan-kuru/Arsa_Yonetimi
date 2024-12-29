@@ -27,6 +27,8 @@ namespace Models
         public double FieldArea { get; set; } // Dönüm bilgisi
         public string FieldCrop { get; set; } // Ekilen ürün
         public DateTime PlantDate { get; set; } // Ekiliş tarihi
+        public List<Expense> ExpenseList { get; set; }
+        public List<Sale> saleList { get; set; }
     }
 
     public static class DataStore
