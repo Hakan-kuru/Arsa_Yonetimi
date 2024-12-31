@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C81FC3AE-7654-47E7-952B-68A151EB39A4}|Arsa_Yonetimi\\Arsa_Yonetimi.csproj|C:\\Users\\Hakan\\source\\repos\\Arsa_Yonetimi\\Arsa_Yonetimi\\arsa_yonetimi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C81FC3AE-7654-47E7-952B-68A151EB39A4}|Arsa_Yonetimi\\Arsa_Yonetimi.csproj|c:\\users\\hakan\\source\\repos\\arsa_yonetimi\\arsa_yonetimi\\arsa_yonetimi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C81FC3AE-7654-47E7-952B-68A151EB39A4}|Arsa_Yonetimi\\Arsa_Yonetimi.csproj|solutionrelative:arsa_yonetimi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -50,8 +50,7 @@
               "RelativeToolTip": "Arsa_Yonetimi\\FieldsForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T08:04:42.89Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -131,8 +130,7 @@
               "RelativeToolTip": "Arsa_Yonetimi\\FieldsForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T08:05:42.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T08:05:42.585Z"
             }
           ]
         }

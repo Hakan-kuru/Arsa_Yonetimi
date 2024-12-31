@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arsa_Yonetimi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64ffd21b3450cb7d5c34b09db37eebff336ee21f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6b1546247ef825f1d579bad6667bff766c0434d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arsa_Yonetimi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arsa_Yonetimi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
